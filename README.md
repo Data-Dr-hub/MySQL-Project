@@ -1,11 +1,11 @@
-# Little Lemon Database Engineering
+# Little Lemon Restaurant Database Project 
 
 Little Lemon is an imaginary restaurant. It deals majorly in online ordering/delivering system. 
 
 ![](littlelemon.jpg)
 
 ## Problem Statement
-In this project, I am the database engineer of Little_Lemon.
+In this project, I am the newly employed data analyst for Little_Lemon Restaurant.
 
 They just developed a python application for their customers, they need to connect the app to their backend MySQL database in order to retrieve data and explore within the python app.
 
